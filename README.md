@@ -2,8 +2,7 @@
 
 ### A ML project which predict success of a game depending on some features such as generes, in app purchase, developer name, .....etc
 
-ML project where we predict success of a game. <br>
-We use apply:<br>
+ML project where we predict success of a game.We use apply:<br>
 - Preprocessing.<br>
 - Feature extraction.<br>
 - Feature selection using Person's correlation for regression and Anova for classification.<br>
